@@ -1,4 +1,4 @@
-// // console.log("waris has ")
+// // console.log("waris has awoken")
 
 // // const getOrangeJuice = (cb) => {
 // //     setTimeout(() => {
@@ -92,8 +92,8 @@ function job() {
 
 let promise = job();
 promise.then(function () {
-        console.log('Success 1');
-    })
+    console.log('Success 1');
+})
 
     .then(function () {
         console.log('Success 2');
